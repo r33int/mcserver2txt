@@ -3,7 +3,7 @@
   "modid": "mcserver2txt",
   "name": "mcserver2txt",
   "description": "Prints your current minecraft server to a text file.",
-  "version": "1.0.1_1.8.9",
+  "version": "1.0.2",
   "mcversion": "1.8.9",
   "url": "https://r33.space",
   "updateUrl": "",
