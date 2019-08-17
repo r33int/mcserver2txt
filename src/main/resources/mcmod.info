@@ -4,7 +4,7 @@
   "name": "mcserver2txt",
   "description": "Prints your current minecraft server to a text file.",
   "version": "1.0",
-  "mcversion": "${mcversion}",
+  "mcversion": "1.8.9",
   "url": "https://r33.space",
   "updateUrl": "",
   "authorList": ["r33int"],
